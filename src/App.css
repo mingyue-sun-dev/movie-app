@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+.App {
+  min-height: 100vh;
+  position: relative;
+}
+
+footer {
+  background: rgb(3,37,65);
+  color: #fff;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+footer img {
+  width: 150px;
+  margin: 0 10px;
+  border-radius: 0;
+}
+
+footer a {
+  color: rgba(1,180,228, 1);
+  font-family: Times, "Times New Roman", serif;
+}
+
+footer a:nth-child(2) {
+  margin: 7px;
+}
+
+footer a:nth-child(2):hover {
+  color: #fff;
+}
