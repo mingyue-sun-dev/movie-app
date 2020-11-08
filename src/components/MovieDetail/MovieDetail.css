@@ -72,8 +72,8 @@ button:focus {
 	}
 
 	.content img {
-		width: 100%;
-		order: 1;
+		width: 50vw;
+		margin: auto;
 	}
 
 	.movie-info div {
