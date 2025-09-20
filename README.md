@@ -2,7 +2,7 @@
 
 A React-based movie discovery application that allows users to browse popular movies, search for specific titles, and view detailed information about each movie. The app fetches data from The Movie Database (TMDb) API and provides an intuitive interface for movie exploration.
 
-🔗 **[Live Demo](https://msun0320.github.io/movie-app)**
+🔗 **[Live Demo](https://mingyue-sun-dev.github.io/movie-app)**
 
 ## Features
 
